@@ -37,7 +37,7 @@ Please visit this useful resource if you would like to know more about OCT and i
 
 A side-by-side comparision of our classes
 
-![OCT IMAGES] (https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/4d0da5d1-ed26-4571-bc3f-8d1b02af390b/gr2.jpg)
+![OCT IMAGES](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/4d0da5d1-ed26-4571-bc3f-8d1b02af390b/gr2.jpg)
 
 @IMAGE COURTESY: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
