@@ -36,7 +36,8 @@ Drusen (label: DRUSEN) - Drusen are yellow colored lipid deposits under the reti
 Please visit this useful resource if you would like to know more about OCT and its utility and the specific ways in which OCT of retinal images can be read or understood.
 
 A side-by-side comparision of our classes
-![OCT IMAGES] (https://camo.githubusercontent.com/21719466f266d6b36370c9b4250e8543e49605dc/68747470733a2f2f692e696d6775722e636f6d2f665354655a4d642e706e67)
+
+![OCT IMAGES] (https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/4d0da5d1-ed26-4571-bc3f-8d1b02af390b/gr2.jpg)
 
 @IMAGE COURTESY: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
 
